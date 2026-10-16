@@ -51,11 +51,6 @@ This sample demonstrates how to create and configure the Syncfusion [Blazor Maps
 dotnet restore
 dotnet run
 ```
-
-## Project Structure
-
-`Pages/Index.razor` — contains the primary Syncfusion Maps implementation, map configuration, legend setup, data-label configuration, and tooltip rendering.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).

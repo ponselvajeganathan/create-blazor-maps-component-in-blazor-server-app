@@ -4,10 +4,6 @@
 
 This sample demonstrates how to create and configure the Syncfusion [Blazor Maps](https://www.syncfusion.com/blazor-components/blazor-map) component in a Blazor Server application. The implementation visualizes geographic regions and introduces core mapping features including legends, data labels, and tooltips. It serves as a practical getting-started example for developers who need to display geographic information, highlight map regions, and enrich map interaction with contextual data presentation.
 
-**Example**: https://blazor.syncfusion.com/demos/maps/default-functionalities
-
-**Documentation**: https://blazor.syncfusion.com/documentation/maps/getting-started
-
 ## Key Features
 
 - Demonstrates rendering the Syncfusion Maps component in a Blazor Server application.
